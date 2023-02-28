@@ -1,0 +1,5 @@
+Wizja: stworzenie aplikacji webowej, na której będzą widnieć informacje o miejscu, w którym są dane lokale firmy z kababami, funkcja komentarzy od użytkowników, opcja propozycji dodania czegoś nowego do menu od używtkowników, możliwość zgłaszania błędów(support), wydzielenie miejsca na reklamy.
+Wartość biznesowa: Przychody oraz koszty związane z korzystania ze strony internetowej (opłata za serwer/utrzymanie własnego serwera typu konserwacja,wymiana części serwera).
+Zakres: Umieszczenie w bazie danych ranking zarobków wszystkich kebabowni, 
+Role w projekcie: Osoba od frontend i backend, tester, Ux Designer, Projekt Menager, Specjalista ds. reklamy,Sponsor.
+KPI wskaźnik postępu: Wykaz sprzedaży kebabów, Średni przychód z 1 kebabowni, Średnia ilość produktów z 1 zamówienia.

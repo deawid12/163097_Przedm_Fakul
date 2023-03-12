@@ -1,7 +1,7 @@
-Tworzenie schematu projektu  4h
-Implementacja Bazy Danych 6h
-Projektowanie Interfejsu Aplikacji 8h
-Projektowanie Interfejsu użytkownika  8h
-Implementacja Interfejsu użytkownika 4h
+Tworzenie schematu projektu  3h
+Implementacja Bazy Danych 5h
+Projektowanie Interfejsu Aplikacji 5h
+Projektowanie Interfejsu użytkownika  5h
+Implementacja Interfejsu użytkownika 3h
 Implementacja interfejsu aplikacji 3h
 Testowanie 3h
